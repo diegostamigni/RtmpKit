@@ -1,13 +1,16 @@
 .idea
 export.h
 .vscode
-./build
+build
+build.*
 build-ios
 build-android
 ./ios
 ./android
 conanbuildinfo.cmake
+conanbuildinfo.txt
 conaninfo.txt
+graph_info.json
 output
 *.coati*
 CMakeLists.txt.cmake
