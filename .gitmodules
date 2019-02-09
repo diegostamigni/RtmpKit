@@ -1,0 +1,6 @@
+[submodule "3rdparty/ios-cmake"]
+	path = 3rdparty/ios-cmake
+	url = https://github.com/diegostamigni/ios-cmake
+[submodule "3rdparty/SAMContentMode"]
+	path = 3rdparty/SAMContentMode
+	url = https://github.com/diegostamigni/SAMContentMode.git
