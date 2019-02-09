@@ -1,0 +1,15 @@
+.idea
+export.h
+.vscode
+./build
+build-ios
+build-android
+./ios
+./android
+conanbuildinfo.cmake
+conaninfo.txt
+output
+*.coati*
+CMakeLists.txt.cmake
+.vs
+**/version.h
